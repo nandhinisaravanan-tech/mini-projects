@@ -8,7 +8,8 @@ The Delivery Exception Management Dashboard is a lightweight, single-page web ap
 * **Form Validation:** Ensures all mandatory fields are filled before submission.
 * **Real-Time Dashboard:** Newly reported exceptions populate the table instantly using DOM manipulation.
 * **Live Statistics:** Dynamically tracks and displays the total count of "Open" and "Resolved" issues.
-* **Row Actions:** * **Resolve:** Marks an open issue as resolved, updates its visual status, and disables further edits.
+* **Row Actions:**
+  * **Resolve:** Marks an open issue as resolved, updates its visual status, and disables further edits.
   * **Delete:** Removes an issue from the dashboard (includes a confirmation safeguard).
 * **Dynamic Filtering:** Instantly filter the table data by "Issue Type" and/or "Status" to find specific records quickly.
 * **Responsive Design:** The layout adapts seamlessly to smaller screens and mobile devices.
